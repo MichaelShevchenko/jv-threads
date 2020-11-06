@@ -5,5 +5,6 @@ public class Application {
 
     public static void main(String[] args) {
         logger.info("Hello world!");
+        System.out.println("Travis check");
     }
 }
